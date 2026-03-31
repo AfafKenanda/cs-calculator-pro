@@ -154,7 +154,7 @@ cs-calculator-pro/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/cs-calculator-pro.git
+git clone https://github.com/AfafKenanda/cs-calculator-pro.git
 cd cs-calculator-pro
 
 # 2. (Optional) Create a virtual environment
@@ -253,7 +253,7 @@ User Input
 
 ## 👨‍💻 Author
 
-**YOUR_NAME**  
+**Afaf Kenanda**  
 Student @ University TAHRI Mohammed of Bechar  
 Mini-Project — Fundamentals and Techniques of Programming
 
